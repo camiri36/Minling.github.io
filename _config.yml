@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mling.png"
   name             : "蒋明玲"
   pronouns         : # example: "she/her"  
   bio              : "尽吾志也而不能至者，可以无悔矣，其孰能讥之乎？"
